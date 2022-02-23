@@ -1,0 +1,51 @@
+#form{
+    background:whitesmoke;
+    width: 500px;
+    height: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 30px;
+    
+}
+
+#bt,#reset{
+  margin-left: 100px;
+  margin-top: 60px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header{
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#msg,#danger{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#alt,#ps {
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+body{
+    background:rgba(165, 221, 243, 0.938) ;
+}
+
+p{
+    color: red;
+}
+#Nm {
+    color: black;
+    font-weight: bold;
+}
